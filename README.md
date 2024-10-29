@@ -1,2 +1,2 @@
 # MLP
-Deep ML
+Deep ML (Multiple Hidden Layers)
