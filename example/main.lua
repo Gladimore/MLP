@@ -91,7 +91,7 @@ end
 -- MLP configuration
 local input_size = 9         -- 3x3 grid, flattened to 9 elements
 local output_size = 3        -- Three classes (horizontal, vertical, diagonal)
-local hidden_sizes = { 10 } -- Hidden layer sizes, progressively decreasing
+local hidden_sizes = { 8 } -- One hidden layer with 8 neurons
 local learning_rate = 0.01
 
 -- Initialize MLP
